@@ -4,10 +4,10 @@
 > **Only for Testing Purposes.**  
 > Documentation in this repository is entirely written for educational purposes.
 
-**Project**: OWASP Juice Shop - CAPTCHA Bypass Challenge (Broken Anti Automation)
-**Tools**: Kali Linux with Burp Suite
-**Author**: Pascal Nehlsen
-**Portfolio**: [https://www.pascal-nehlsen.de/](https://www.pascal-nehlsen.de/)
+**Project**: OWASP Juice Shop - CAPTCHA Bypass Challenge (Broken Anti Automation) <br>
+**Tools**: Kali Linux with Burp Suite <br>
+**Author**: Pascal Nehlsen <br>
+**Portfolio**: [https://www.pascal-nehlsen.de/](https://www.pascal-nehlsen.de/) <br>
 **GitHub Link**: [https://github.com/PascalNehlsen/juice-shop-challenges/challenges/captcha-bypass.md](https://github.com/PascalNehlsen/juice-shop-challenges/challenges/captcha-bypass.md)
 
 ## Table of Contents

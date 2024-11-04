@@ -4,10 +4,10 @@
 > **Only for Testing Purposes.**  
 > Documentation in this repository is entirely written for educational purposes.
 
-**Project**: OWASP Juice Shop - Deluxe Fraud Challenge (Improper Input Validation)
-**Tools**: Kali Linux with Burp Suite, Firefox Developer Tools
-**Author**: Pascal Nehlsen
-**Portfolio**: [https://www.pascal-nehlsen.de/](https://www.pascal-nehlsen.de/)
+**Project**: OWASP Juice Shop - Deluxe Fraud Challenge (Improper Input Validation) <br>
+**Tools**: Kali Linux with Burp Suite, Firefox Developer Tools <br>
+**Author**: Pascal Nehlsen <br>
+**Portfolio**: [https://www.pascal-nehlsen.de/](https://www.pascal-nehlsen.de/) <br>
 **GitHub Link**: [https://github.com/PascalNehlsen/juice-shop-challenges/challenges/deluxe-fraud.md](https://github.com/PascalNehlsen/juice-shop-challenges/challenges/deluxe-fraud.md)
 
 ## Table of Contents
