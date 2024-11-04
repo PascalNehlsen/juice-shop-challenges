@@ -63,7 +63,7 @@ In the HTML, I found the attributes `mat-button-disabled` and `disabled='true'`.
 
 </div>
 
-#### Step 1: Manipulating the Purchase Request
+#### Step 2: Manipulating the Purchase Request
 
 However, clicking the button did not trigger any action. Therefore, I intercepted the request sent when clicking the button using Burp Suite. The intercepted request was a `POST` request containing a JSON object.
 
