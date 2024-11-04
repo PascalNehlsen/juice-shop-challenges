@@ -8,6 +8,7 @@
 **Tools**: Kali Linux with Burp Suite <br>
 **Author**: Pascal Nehlsen <br>
 **Portfolio**: [https://www.pascal-nehlsen.de/](https://www.pascal-nehlsen.de/) <br>
+**Loom Link**: [https://www.loom.com/share/3d2413df443144b29470438f58997e51](https://www.loom.com/share/3d2413df443144b29470438f58997e51) <br>
 **GitHub Link**: [https://github.com/PascalNehlsen/juice-shop-challenges/challenges/captcha-bypass.md](https://github.com/PascalNehlsen/juice-shop-challenges/challenges/captcha-bypass.md)
 
 ## Table of Contents
@@ -51,10 +52,10 @@ Before submitting the feedback, I activated the interception feature in Burp Sui
 
 Upon submission, I checked the HTTP history to see the outgoing and incoming requests. I found a `POST` request to the `/api/Feedbacks/` endpoint. Within the JSON of the submitted request, I observed the following keys:
 
-`"captchaIds"`: Contains the CAPTCHA identifier
-`"captcha"`: Holds the calculated result (`10`)
-`"comment"`: Contains the actual feedback message
-`"rating"`: Reflects the rating assigned to the shop
+- `"captchaIds"`: Contains the CAPTCHA identifier
+- `"captcha"`: Holds the calculated result (`10`)
+- `"comment"`: Contains the actual feedback message
+- `"rating"`: Reflects the rating assigned to the shop
 
 <div align="center">
 

@@ -8,6 +8,7 @@
 **Tools**: Kali Linux with Burp Suite <br>
 **Author**: Pascal Nehlsen <br>
 **Portfolio**: [https://www.pascal-nehlsen.de/](https://www.pascal-nehlsen.de/) <br>
+**Loom Link**: [https://www.loom.com/share/6a49a637123d47e486340327dfdf88d7](https://www.loom.com/share/6a49a637123d47e486340327dfdf88d7) <br>
 **GitHub Link**: [https://github.com/PascalNehlsen/juice-shop-challenges/challenges/api-only-xss.md](https://github.com/PascalNehlsen/juice-shop-challenges/challenges/api-only-xss.md)
 
 ## Table of Contents

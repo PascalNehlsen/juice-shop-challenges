@@ -8,6 +8,7 @@
 **Tools**: Kali Linux with Burp Suite <br>
 **Author**: Pascal Nehlsen <br>
 **Portfolio**: [https://www.pascal-nehlsen.de/](https://www.pascal-nehlsen.de/) <br>
+**Loom Link**: [https://www.loom.com/share/b6560608cbb74367a0c3f1765e89922f](https://www.loom.com/share/b6560608cbb74367a0c3f1765e89922f) <br>
 **GitHub Link**: [https://github.com/PascalNehlsen/juice-shop-challenges/challenges/admin-registration.md](https://github.com/PascalNehlsen/juice-shop-challenges/challenges/admin-registration.md)
 
 ## Table of Contents
@@ -31,7 +32,7 @@ The Admin Registration Challenge involves registering a user as an administrator
 
 #### Step 1: Information Gathering
 
-To understand what data is sent to the server during the registration process, I used Burp Suite's proxy tool to intercept the HTTP requests with "Intercept is on." By examining the captured requests, I found the endpoint `/api/Users/`, where registration information is sent and stored in the server response.
+To understand what data is sent to the server during the registration process, I used Burp Suite's proxy tool to intercept the HTTP requests with "Intercept is on." By examining the captured requests, I found the endpoint `/api/Users/`, where registration information is sent and stored in the server response. Send this request to the Repeater in Burp Suite to see the Response of this `POST` Request.
 
 <div align="center">
 
