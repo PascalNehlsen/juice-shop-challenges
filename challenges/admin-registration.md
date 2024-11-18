@@ -8,7 +8,6 @@
 **Tools**: Kali Linux with Burp Suite <br>
 **Author**: Pascal Nehlsen <br>
 **Portfolio**: [https://www.pascal-nehlsen.de/](https://www.pascal-nehlsen.de/) <br>
-**Loom Link**: [https://www.loom.com/share/b6560608cbb74367a0c3f1765e89922f](https://www.loom.com/share/b6560608cbb74367a0c3f1765e89922f) <br>
 **GitHub Link**: [https://github.com/PascalNehlsen/juice-shop-challenges/challenges/admin-registration.md](https://github.com/PascalNehlsen/juice-shop-challenges/challenges/admin-registration.md)
 
 ## Table of Contents

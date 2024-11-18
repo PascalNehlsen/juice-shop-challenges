@@ -8,7 +8,6 @@
 **Tools**: Kali Linux with Burp Suite <br>
 **Author**: Pascal Nehlsen <br>
 **Portfolio**: [https://www.pascal-nehlsen.de/](https://www.pascal-nehlsen.de/) <br>
-**Loom Link**: [https://www.loom.com/share/3d2413df443144b29470438f58997e51](https://www.loom.com/share/3d2413df443144b29470438f58997e51) <br>
 **GitHub Link**: [https://github.com/PascalNehlsen/juice-shop-challenges/challenges/captcha-bypass.md](https://github.com/PascalNehlsen/juice-shop-challenges/challenges/captcha-bypass.md)
 
 ## Table of Contents
