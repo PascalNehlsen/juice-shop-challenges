@@ -8,7 +8,7 @@
 **Tools**: Kali Linux with Burp Suite, Firefox Developer Tools <br>
 **Author**: Pascal Nehlsen <br>
 **Portfolio**: [https://www.pascal-nehlsen.de/](https://www.pascal-nehlsen.de/) <br>
-**GitHub Link**: [https://github.com/PascalNehlsen/juice-shop-challenges/challenges/deluxe-fraud.md](https://github.com/PascalNehlsen/juice-shop-challenges/challenges/deluxe-fraud.md)
+**GitHub Link**: [https://github.com/PascalNehlsen/juice-shop-challenges/blob/main/challenges/deluxe-fraud.md](https://github.com/PascalNehlsen/juice-shop-challenges/blob/main/challenges/deluxe-fraud.md)
 
 ## Table of Contents
 
